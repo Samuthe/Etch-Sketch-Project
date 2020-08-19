@@ -1,0 +1,8 @@
+The app has three input event buttons that require the user 
+to enter the input. User plays by entering a number not less than 16 into grid.
+The grid displays the rows entered by the user into the container.
+The second button changes the background color and the third erases everything
+in the container.
+The link is at the bottom incase you want to refer the code in Github.
+Welcome.
+
